@@ -18,6 +18,8 @@ export const site = {
     { path: '/about', label: 'About us' },
   ],
 
+  clipTranscript: 'Read the transcript',
+
   languageLabel: 'Language',
   spanishComingSoon: 'Español (próximamente)',
   skipToContent: 'Skip to main content',

@@ -262,6 +262,22 @@ main:focus { outline: none; }
 .topic li { margin-bottom: 0.35rem; }
 .topic li::marker { color: var(--canal); }
 
+/* interview clips */
+.clips-heading { font-size: 1.15rem; margin: 1.75rem 0 1rem; }
+.clip-grid { display: grid; gap: 1.75rem 1.25rem; grid-template-columns: repeat(auto-fill, minmax(min(100%, 18rem), 1fr)); margin-bottom: 1.5rem; }
+.clip { margin: 0; min-width: 0; }
+.clip-video { display: block; width: 100%; aspect-ratio: 16 / 9; background: #000; border-radius: var(--radius-sm); }
+.clip figcaption { display: flex; flex-direction: column; gap: 0.2rem; margin-top: 0.6rem; }
+.clip .media-placeholder figcaption { margin-top: 0; overflow-wrap: anywhere; font-size: 0.85rem; }
+.clip-label { font-size: 0.8rem; font-weight: 600; color: var(--canal); }
+.clip-title { line-height: 1.35; }
+.clip-speaker { font-size: 0.95rem; font-weight: 600; margin-top: 0.15rem; }
+.clip-role { font-size: 0.875rem; line-height: 1.4; color: var(--muted); }
+.clip-note { font-size: 0.875rem; color: var(--muted); }
+.clip-transcript { margin-top: 0.5rem; font-size: 0.9rem; }
+.clip-transcript summary { cursor: pointer; color: var(--river); }
+.clip-transcript p { margin: 0.5rem 0 0; color: var(--muted); }
+
 .voices { display: grid; gap: 2.5rem 3rem; grid-template-columns: repeat(auto-fit, minmax(min(100%, 17rem), 1fr)); margin-top: 1.5rem; }
 .voice { margin: 0; padding-left: 1.25rem; border-left: 3px solid var(--river); }
 .voice blockquote { margin: 0 0 1rem; }

@@ -1,0 +1,69 @@
+Dr. Moazeni Interview
+
+Transcribed by TurboScribe. Go Unlimited to remove this message.
+
+Okay, with us today is Dr. Farah Manzani, an assistant professor in the Department of Civil and Environmental Engineering and Director of the Interconnected Critical Infrastructure Systems Engineering Laboratory at Lehigh University. Dr. Manzani is also a founding member of the Center for Advancing Community Electrification Solutions, also known as ACES. Her research focuses on improving the reliability, resilience, and security of interconnected infrastructure systems.
+
+Today, we have the privilege of discussing with her work with ACES, their recent research project, and her take on the current development of AI in data centers. Dr. Manzani, how could you explain how the research done by ACES could in the future impact local communities that are currently experiencing data center development? All right, so thank you so much. First of all, I would like to mention that Dr. Kishore, she's the director of ACES, she would be a great resource for you to reach out because things that I mentioned are going to be more limited than her knowledge because she's the one who is at the front end of all of these activities.
+
+So I would highly recommend that you talk to her as well. So ACES is focused on basically just telling you what it is. So we were looking at urban systems and the future of the cities and we realized that all of these infrastructure systems are very highly linked.
+
+And now it's a good time for us to look at all of them holistically and integrate all the interdependencies between them so that we can have a more informed decision. So in recent years, of course, data centers are becoming very hot topics. And at ACES, we have had two symposiums for the past two years focused on just data centers.
+
+And that has been a very good source of information for us in both ends of needs and solutions. So we are looking at at the same time, you're looking at identifying the vulnerabilities that communities and these systems are going to experience when data centers become very dominant in any area in PA or everywhere else. But at the same time, what are the solutions that we can offer to actually address these vulnerabilities? So I think ACES would be a great resource for communities to both identifying the needs and also what are the potential solutions.
+
+Okay, awesome. Thank you. In July 2026, the ACES research team received a 518,000 National Science Foundation funding reward for stability at the edge, cyber physical risk, and the control of hyperscale data centers in the future inverter dominated grids.
+
+The three year project aims to prevent power grid blackouts and cyber attacks at data centers expand. This is done by creating smart control systems that help data centers coexist with energy sources like renewable energy that lack traditional grid stability. How is this newfound investment in sustainable data center research impacted the higher academic community? So we received the funding.
+
+The project has not been started yet. So it's a very new project. Hopefully we can start it in the spring semester.
+
+So I'm going to then respond to this in a more general perspective. I believe that really all of these grants and funding that is becoming available to researchers would provide us with a tool to solve the problems that are either existing now or we predict that would become a problem later. So for example, right now data centers are not too many for our systems, right? We have like one in Bethlehem.
+
+There are some data centers that existed from before even. As long as the number is not too many and too many is a very like non-scientific word to use, right? When we say too many, we are comparing with the resources that we have. The resources of energy, the water, because cooling of these data centers would also require water.
+
+Workforce, infrastructure, all of this. So if the amount of resources are greater than the number of data centers, perfect. Most likely we are not going to have problems in terms of demand and resource.
+
+But if the balance goes the opposite way, meaning that the resources are not enough to provide support to these data centers, then we are going to see problems. And these grants, these federal money that researchers have now available to them will give us a very unique opportunity so that we can sit and we can look ahead. We can think beyond that.
+
+Okay, what if scenarios? So we can create what if scenarios. We can develop models that could address them as I said before. So you identify a need and then these grants allow you to also develop a solution for them.
+
+So with this particular grant, we are looking at how data centers could become a source of instabilities in the grid because they are large scale nodes. And if something happens to them, they can actually make the entire electric grid unstable. So we are looking at the possibilities of this to happen and also what can we do to prevent that from happening.
+
+And I believe that these types of grants will allow us researchers to develop, to use the knowledge that we already have, but we were using it in different applications. Now we are going to apply them in the data centers and we'll look at the reliability, resilience of infrastructure that we need in order to support these data centers. And we don't have to be reactive, we can become proactive and these grants allow us to do that.
+
+Okay, awesome, good to know. Next, how has your personal experience been as AI has infiltrated the spaces of higher education and academic research? This is an excellent question because I've seen both ends. So first off, some people are either for or against AI.
+
+I'm not one of those, I'm in the middle. I believe that AI can be helpful, but at the same time it could also be a disadvantage to our research and education. I personally use AI and I find it very helpful and it's a great source in learning.
+
+Like before, if I needed to learn something new in my research, I had to actually look for a textbook, a paper, a reference to read that. Now if I use a correct prompt and if I have the knowledge to identify if the answer of the AI is correct and it makes sense, that saves me time, but it also can teach me what I didn't know and I use it as a learning tool. So I think it could be very beneficial if we learn to develop the background and knowledge first and then use AI as an assistant or as an enabler rather than just using it as the main source and just let AI do the job for us.
+
+I think the latter one is going to be very harmful while the former one is to be a great tool that we can use. Awesome. So our team has had a chance to go out to a town hall meeting discussing AI data center policy updates and speak with local residents about their thoughts on data center development in Bethlehem.
+
+Are there any long-term environmental or health impacts you believe local Bethlehem residential communities should be more informed about as discussions around data center developments progress? This is a great question and I don't know if there is anyone that I know that would have the right answer for it. I can give you my own perspective and it doesn't limit to just Bethlehem. It is true for everywhere, any place that you're going to have data centers.
+
+One thing that most often is overlooked is, as I mentioned, the interdependencies between these systems. For instance, many people talk about the energy consumption, the high energy consumption of these data centers and also they look at the water footprint of them in terms of just the cooling side, right? What they are not looking at and what they are missing here is that all the power resources and the power plants that would generate electricity, for example, for these data centers are going to also need water for their cooling system. So water is being used in two places while it is counted only once for the data centers.
+
+This is just one example. And of course, many data centers are looking at microgrids so that they become independent from the electric grid. That's a different story.
+
+But noise, for example, would be another issue that many, many communities have raised concern about. And I know that many people are working on that. Actually, ACES has taken upon a project, a potential project, to work on the noise problem.
+
+You can ask that again. Dr. Kishore might know because she's the one who is leading that effort. So there are different perspectives.
+
+There are different aspects of data centers that could make people nervous. Some of them are very true and some of them are not exactly the reality. For example, the water resource, the energy usage, they are real.
+
+Data centers utilize a lot of these resources. Some data centers' cooling systems are based on air. They don't require that much of water, but then air cooling systems are even higher in energy consumption.
+
+Noise is another thing that is a concern. But many other things may not be a big deal, may not be a big concern that people talk about. And I think in order to make sure that we have a complete answer to your question, we should have engineers, we should have policymakers, we should have environmentalists, health system people, to all in the room, in the same room, to talk about different potential problems that we might have that could impact each other as well and how we can address them within one system so that we can see every aspect of it.
+
+Okay, great. And finally, what's a closing statement that condenses your perspective on the current development of AI and data centers as an academic in a related field? For me, data centers are no different from other technologies, like electric vehicles were another topic years ago, that people have concerns about stations and things like that. I believe that technology is good.
+
+Actually, it can be great. It can be very beneficial to our lives as long as we don't rush into it. I believe that we shouldn't just allow data centers to take a shortcut to, you know, to be developed overnight.
+
+And similar to any other technology, that we take our time, we study them, we'll look at the regulations, we'll look at the impacts and all of those. Maybe, yeah, we can do that at a higher pace, more prioritized, but we cannot ignore them and skip them. We should have a good, comprehensive look at what the data center is going to need and what we need to build to prepare our communities for them.
+
+But we shouldn't say, oh no, we don't want data centers because I think they are going to be here, whether we like it or not, because the way that AI is integrated in our day-to-day lives. I think our part as engineers and our researchers is that to find better solutions, to improve the life of the people, to protect the communities, but at the same time, to make sure that we are not falling behind technology. Okay, great.
+
+Thank you, Dr. Manzani, for taking the time to speak with us today and sharing your perspective. Of course, my pleasure.
+
+Transcribed by TurboScribe. Go Unlimited to remove this message.

@@ -1,0 +1,105 @@
+15:16:53 Okay, I'm gonna start recording in case, but
+15:16:55 Sounds good.
+15:17:10 Yep.
+15:16:59 Well, yeah, thank you so much for meeting with us. So just, I guess, a little start to like what we're doing is that we're kind of where our classes are human-centered AI. Yeah, and we're kind of researching on data center specifically and like their impact on
+15:17:29 Hello? Yes.
+15:17:31 Okay.
+15:17:17 the communities locally and also nationally, but like mainly the one in Bethlehem. Yeah. So what we're looking over how the Bethlehem residents are feeling about, like, the new proposed data center in Route 22. So we kind of wanted to ask, like, questions about just broad, you know, data centers and also
+15:17:37 You know, about the specific proposal that is going on. And we thought that you would be, like, really good perspective on this, since you're an educator and also in the community
+15:17:47 And deeply paranoid about AI ethics.
+15:17:51 Yes.
+15:18:02 Hmm?
+15:17:50 Well, I didn't know that. Okay, good. Honestly, so good thing we're having this conversation. Okay, so yeah, so I guess to start, could you just tell us a little bit about yourself and your experience living and working in Bethlehem and how familiar were you with data centers before it came into the community discussion?
+15:18:08 Okay, so Kallie Pearl, I live in Hellertown with my husband and my father-in-law and our dogs, but I'm a professor at Lehigh, so I teach intro programming and also computing ethics. I feel like I didn't know about data centers until I taught about ethics.
+15:18:27 And really into like AI, we started having those conversations, so probably knew about it before it got as local as it is being proposed now. But still relatively recently for as long as, like, data centers have, you know, existed for computing and all of that.
+15:18:48 Nice, thank you. Is there an event coming on in here? Oh, okay
+15:18:53 Oh, no. Wait, we're gonna have to… I'm so sorry
+15:18:56 Okay, totally fine. That's the type of day I'm having, don't worry about it.
+15:19:00 I'm so sorry. Wait, let's quickly
+15:19:42 Okay, take your time.
+15:19:39 Okay, so sorry about that, we're gonna walk across the street
+15:20:42 Okay. Okay, we're back.
+15:20:45 All right.
+15:20:45 All right.
+15:20:46 Now let's continue. I'm so sorry about that. So as someone who teaches computer science, you've seen how technology continues to evolve. When you think about the future of AI and other emerging technologies, how do you think that growth, especially with data centers
+15:21:04 will shape communities today.
+15:21:06 Yeah, um…
+15:21:08 I think we're gonna see more data centers in general. I think that that's like not inevitable, but I think like it's just going to sort of happen. And I was thinking about it actually like with Bethlehem being so uniquely like industrial as part of our history.
+15:21:23 Like on.
+15:21:24 Yeah.
+15:21:25 the surface might feel like, oh, it's like a renaissance of that sort of like bringing that in, but it's not, to my understanding, gonna create like, you know, the number of jobs like like having an industry would have, you know, like previously.
+15:21:42 I think.
+15:21:46 there's there's so many pieces of it that people get like upset about and like focus on, that it's hard to, like, even see.
+15:21:57 positives in it, too. So, like, this semester is the first time I'm teaching intro programming and I'm using AI, um, and I'm not requiring it, but I'm, like, having it available in, like, a very particular way, and, like, still in the back of my mind thinking, like, should I really be requiring this tool that I know, like, has these implications? Like, should I be encouraging a classroom of people to be using it all at the same time?
+15:22:31 Yes.
+15:22:19 Like not thinking about the like energy usage on top of it. I think when you bring the data centers close, it brings the problem closer and that's new for us because we've always had technology improving and getting better. But the environmental effects, the big issues, I feel like have been in…
+15:22:46 Yeah.
+15:22:37 Other countries have been in other places, like people think data is clean because it's a computer, it's not like oil spilling everywhere, but like it still has its own problems, so it's such a mixed bag and like I have such conflicting feelings about it, and it's only, like, made worse, I think, by the fact that we see all these, like, data center proposals and just anywhere kind of seeing that come in.
+15:23:06 Yeah.
+15:23:00 Right, and so just kind of building off of that, since a lot of us do rely on data centers every day without realizing it. So if one were proposed near Bethlehem, like the one on 122, it is, how important do you think would be for residents to understand how it works
+15:23:22 Yeah.
+15:23:16 Like, how, like, how energy usage, water for cooling, and the jobs it could potentially bring, and what would help make that information accessible to people from different backgrounds.
+15:23:26 Yeah, I think.
+15:23:28 It's hard because it's almost like a PR campaign for AI and a PR campaign for data centers too, right? Because that's the physical footprint of the AI beast. But like unless you understand that, you don't see the value.
+15:23:43 I think the immediate thing is like if people are gonna see a change to their bottom line, like if my electric bill is going to go up and the cost of electricity is already skyrocketing, like I'm I'm not happy. We're about to go into winter, right? I'm going to pay, you know, whatever to heat my house.
+15:23:59 I literally, like, make the joke with my husband, like, okay, like, wonder what the cost will be this year, cause we could use less than we did last year and we pay 2 times as much, which doesn't work out. I think a lot of it has to be, like, transparency in planning and just education.
+15:24:17 for folks. And in this area, that would be, you know, multilingual, it's gonna be trying to, like, get grassroots types of things, of, like,
+15:24:25 trying to explain to people what it means, um, but I also think, like, being very honest about what the possible impacts are and what the potential is there.
+15:24:41 Yeah.
+15:24:36 So what do you think would the best option be in terms of, like, making everything more transparent to the communities? Because I do feel as though, like, some people do think that it is, I mean, some information is obviously being hidden and it's biased
+15:24:50 Do you think that there are any solutions to possibly fix that?
+15:24:56 Probably through people, like, going through media outlets is not gonna work, because, like, you know, you have your media outlet, I have my media outlet, I don't trust what you hear, you don't trust what, like, and the crosstalk, because everything is so political.
+15:25:11 Yeah
+15:25:11 But it's probably like going to council meetings, going to like local club meetings, if there's like organizations, churches, like, you know, like the places that people are. I don't know where people are and I'm saying it, I think, like…
+15:25:27 I'm sure you're still not hitting everyone because, you know, there's plenty of folks that probably interact mostly online with a lot of folks, so like.
+15:25:35 Yeah.
+15:25:35 Maybe it's even going just to local businesses and jobs and just like talking to people and yeah, that seems unfeasible, like, thinking about it that way, but if it's so important that we have to have it here and that like we need it for some reason, then that's what you need to share and like that should be, you know, what's what's kind of
+15:25:53 being pushed at that point.
+15:26:05 Yeah.
+15:25:57 So, I know you've kind of hit on this a little bit already. So data centers kind of being locally versus a national and people don't really understand the actual effects of it. So do you see them a little bit differently at the national level where they power AI in the broader economy
+15:26:15 Then would you if one would be built here in Bethlehem? And where do those two perspectives really line up, and how do they pull in different directions?
+15:26:33 Yeah.
+15:26:22 I think for me, I feel, I feel similarly for both. Like I think about a data center and I'm literally just the first thing I'm thinking is like the water usage, the electric, the sound, the light, how even if it's not disrupting the humans, like the ecosystem, the animals in that area is now like being pushed out and pushed into different areas.
+15:26:44 I I I can't imagine how many more deer I can have in my yard if we keep it, you know, industrializing things and like and and doing that. Um, so I actually think my like I.
+15:27:03 Great
+15:26:56 I don't have that disconnect between like, oh, it's good for the greater good, but not in my area. But that's just, I think the uniqueness of like.
+15:27:05 teaching ethics, right? Like, if I only had that perspective, I would be helping to train a generation of people who don't have a very good perspective on the situation, so.
+15:27:19 Yeah.
+15:27:34 Hmm?
+15:27:19 So we are planning on, you know, building a website to, you know, make it more accessible for people to possibly gain more information that's not biased and have more, like, the local voices within the website, you know, by using these interviews
+15:27:36 Do you think that there are other ways within our like research or within our website that you think would be like important to involve in the, you know, production of what we're making?
+15:27:46 I think, um, I think it's a great idea. I think stories help, so like hearing perspectives, hearing from like, you know, like, think about who's in the area and like, you know, I mean, ideally, if you can have perspectives from like local farmers and, like, business people and like, you know, vastly different perspectives,
+15:28:05 Yeah
+15:28:05 that helps, but I also think just like trying.
+15:28:09 to get it out in an equitable, accessible way is like the bare minimum to do and I think that that's a really good place to start to like have the conversations there. And don't use AI when you're making the website, because I just feel like the, you know?
+15:28:30 Right?
+15:28:34 Yep.
+15:28:24 Yeah, yeah, yeah. Yeah, I know. That was another big conversation. You were like, wait, if, like, you know, we're kind of talking about and getting voices about AI being so negative, then we probably should not include AI in our website.
+15:28:44 It's almost going again. Yeah.
+15:28:38 I know, it would be a lot easier to do it that way, but then it's like, okay, is that one, like, one prompt worth it? Yeah, um, I think something else that might help is, like, data, number one, just, like, numbers help.
+15:28:53 Exactly.
+15:29:03 Yep.
+15:29:03 Okay.
+15:28:51 to tell a story, but like putting it in perspective of, like, hey, a Google search used to be like this, but this is what it means when you're, like, chatting with Gemini for 5 minutes instead. Um, and I think putting usage in.
+15:29:07 would be, would be good.
+15:29:11 Explaining, like, the gravity of each area
+15:29:12 Yeah, yeah, um, and it might be… I mean, this is crazy, I'm just, like, spitballing here, but, like, depending on the time you had, but, like, if you could create some sort of simulation of, like, what the data center would look like, right? Like, so if, like, you had a screen like that, like,
+15:29:26 No, we were actually planning on doing something like that. Yeah.
+15:29:27 and whatever, yeah, just get to people's, like, visual, like, that's… you don't need language to see how annoying that would be. Or, like, a perspective of, like, your viewing it from inside your house or something.
+15:29:48 Yeah, yeah.
+15:29:49 .
+15:29:40 Yeah, I think that's a good idea because I feel like a visual representation is a lot more of an impact than just like, you know, numbers and words. That's a good idea. I think we also wanted to make like a map of like where the data centers are and then like the radius of
+15:29:55 Yep.
+15:29:58 I love that. That's, that's perfect.
+15:30:05 Yeah.
+15:29:56 how it actually is impacting the community itself. Yeah. Yeah, the more we hear, I mean, we went to town hall meeting, like you said, and go to town hall meetings, you know. So we went to a town hall meeting, we got a few voices there. We've been interviewing other professors, as well as some other, like, students
+15:30:20 Uh-huh.
+15:30:24 Yep.
+15:30:26 Right.
+15:30:15 So, you know, I feel like just, like, gaining the perspective of just people within this area is, like, the most important thing you could do, and you know, like, getting that out there is the most important thing. So yeah, that is our main goal.
+15:30:28 Good. Nice! This is cool, sounds like a good project, and it's always nice to do something that has, like, real implications.
+15:30:35 So that's fantastic.
+15:30:40 Perfect. No problem.
+15:30:37 Yeah, thank you so much for talking to us. Yeah, those are all the questions I have. But we just wanted to get as many voices and opinions that we can, you know, everything counts. So thank you so much. Yeah
+15:30:48 Yep, no problem.
+15:30:50 Thank you so much. Thank you so much.

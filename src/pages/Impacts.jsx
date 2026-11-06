@@ -1,6 +1,7 @@
 import { useContent } from '../i18n/LanguageContext.jsx';
 import PageIntro from './PageIntro.jsx';
 import SourceLinks from '../components/SourceLinks.jsx';
+import Clip from '../components/Clip.jsx';
 
 export default function Impacts() {
   const { content } = useContent();
@@ -30,6 +31,16 @@ export default function Impacts() {
                     <li key={i}>{p}</li>
                   ))}
                 </ul>
+                {t.clips?.length > 0 && (
+                  <>
+                    <h3 className="clips-heading">{impacts.clipsHeading}</h3>
+                    <div className="clip-grid">
+                      {t.clips.map((c) => (
+                        <Clip key={c.file} clip={c} />
+                      ))}
+                    </div>
+                  </>
+                )}
                 <SourceLinks sources={t.sources} />
               </article>
             ))}

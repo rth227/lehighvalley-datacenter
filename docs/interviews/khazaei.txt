@@ -1,0 +1,186 @@
+JavadKhazaei
+Transcribed by TurboScribe. Go Unlimited to remove this message.
+
+Today is Dr. Javad Kazi, an Associate Professor in the Department of Electrical and Computer
+Engineering and Director of the Integrated Resilient and Intelligent Energy Systems Laboratory at
+Lehigh University. He is also a founding member of the Center for Advancing Community
+Electrification Solutions, also known as ACES. His research focuses on smart grids, power
+system control, and developing solutions to help electrification infrastructure keep up with the
+new emerging technologies.
+
+Today we have the privilege of discussing his work with ACES, their recent research project, and
+his take on the current development of AI and data centers. So for our first question, could you
+explain how the research done by ACES could in the future impact local communities that are
+currently experiencing data center development? Yeah, sure. So a little bit about the center itself.
+
+So it's a center that we study how we could integrate different type of energy resources into
+infrastructure. It could be how we can operate water systems more efficiently. It could be how we
+can run buildings more efficiently.
+
+And in this specific case, we are studying how we can integrate data centers into the power
+system more efficiently. So one of the aspects of this area that ACES is focused on is impact of
+hyperscale data centers. So by the term hyperscale, we mean data centers with hundreds of
+thousands of graphical processing units or GPUs.
+
+And the challenge is that each GPU consumes somewhere about 300 to 400 watts of power.
+Now imagine you're integrating hundreds of thousands of those in one building. So that's going to
+be a huge energy consumption.
+
+And compared to the conventional power system where things were slow, now these GPUs can
+turn on and off immediately in milliseconds. Now you're dealing with gigawatt scale power that
+could go from zero to 100 percent in milliseconds. And that's the challenge that we are facing.
+
+And what we are doing in ACES is we are studying, we're modeling large-scale power system
+with hyperscale data centers that would replicate the U.S. grid with data centers. And we are
+studying how these data centers, different types of training, model training, different types of
+inference algorithms, and different type of machine learning algorithms could have impact on
+stability and resilience of the grid. So that's the main goal of what we're doing.
+
+Awesome. Thank you. So in July 2026, the ACES research team received a 518,000 National
+Science Foundation funding award for stability at the edge, cyber physical risk, and control of
+hyperscale data centers in future inverter-dominated grids.
+
+The three-year project aims to prevent power grid blackouts and cyber attacks at data centers
+expand. This is done by creating smart control systems that help data centers coexist with energy
+sources like renewable energy that lack traditional grid stability. So for our question, how has the
+newfound investment in sustainable data center research impacted the higher academic
+community? So I would say in terms of academic community, what we have seen over the past
+few years has been a surge of utilization of machine learning algorithms in different disciplines.
+
+I'm in the engineering discipline. So in my application, we have seen automation, for example,
+optimization of industrial plants. We have seen a surge in teaching.
+
+So I myself use AI tools for my classes because I think they have improved how we were thinking
+about teaching students. Now we have more resources, we have more tools, and they are fast.
+So one of the things that I could say about this data center is that they enabled us to do things
+that would take longer to be done much faster these days.
+
+So from facial recognition, for example, software that has been developed, or autonomous cars.
+So these are all machine learning algorithms. In medical and health systems, you have seen a
+surge of utilizing AI for detection of different type of disease, and that's something that we didn't
+have before.
+
+Now you have an advanced approach for dealing with many problems in engineering and
+different disciplines. Okay, great. AI tools are becoming increasingly commonplace, and many
+people may not realize how much power is needed to operate them.
+
+Could you explain why AI data centers energy demands create unique challenges for the power
+grid? Yes. So one of the main factors in data centers for their power consumption is the graphical
+processing units, or GPUs. These GPUs are the main components for running machine learning
+algorithms.
+
+And since we are dealing, for example, a chat GPT is using text to give you a text. So you give a
+command in text and it gives you a text. For training of this algorithm, which took six months, they
+had to use billions of books, billions of texts, and so on.
+
+So that's a huge amount of data. For a machine learning to process that amount of data, we need
+to have thousands of graphical processing units. And each unit consumes, I mentioned 300 to up
+to 700, these new GPUs.
+
+So you have 100,000 of those. Those consume a large amount of power. We call it hyperscale
+data centers because they consume gigawatt power.
+
+So in this case, you can, in a very short amount of time, you could consume 100 gigawatts of
+power. And that's the challenge that we are facing on the grid side. Awesome.
+
+Thank you. So what makes data center energy demands different from other high-scale
+infrastructure? I think the speed. So if you think about building as an example, if you're trying to
+control a building for cooling or for heating, it usually takes hours for the system to run.
+
+And the power demand is fairly slow. So it takes time. And they consume a constant amount of
+power.
+
+So an air conditioning unit has a rated power. And if you're running it, every hour you're
+consuming the same amount of power. But when we come to the graphical processing units, they
+are much faster than conventional infrastructure.
+
+Like water system is also slow, but data center can run in milliseconds. So your power can go
+from zero to 100, depending on how many GPUs you use. And you have hundreds of thousands
+of them.
+
+So your power can go, basically oscillate very quickly in a short amount of time. That's what
+makes it more challenging. Okay.
+
+In an article about your ACES research, you were quoted saying, we can't just say we don't want
+AI anymore. It's helping us. It's shifting how we think.
+
+It's shifting what the future is going to look like. Could you elaborate on what you mean by AI is
+shifting how we think? Yeah. A couple of examples that I mentioned, automation is the first one.
+
+So we have seen large amounts of applications where AI has helped automate things. From
+website development, from automation of industrial plants, autonomous cars. And we have seen
+different types of algorithms that are deployed on our cell phones.
+
+So the way that we are taking pictures as an example, that's a machine learning algorithm that
+helps us take better pictures. So that's how it's shifting how we do things now. And it's going to
+shift how we do things in the future in a better way.
+
+So these are a couple of examples that I could think of. The other one would be in health domain,
+has helped for finding disease, finding new formulas. They have recently solved a new problem
+that scientists have been trying to solve for 100 years.
+
+Now this problem has been solved by a couple of agents. So this is how it's shifting our future.
+Awesome.
+
+And furthermore, how do you think AI is shifting the future in higher academics? I think that the
+first impact is the learning aspect, how students are utilizing AI for better learning. So they use AI
+agents as their personal teachers. So you don't have, conventionally, you had teaching assistants
+and you had to reach out to a teaching assistant to ask any questions and learn a concept.
+
+Now you have a teaching assistant on your phone or on your computer that can help you learn
+things anytime that you want. And also from the teacher's perspective, we are actually looking
+into how we could utilize AI for better educational purposes, like how to prepare better slides, how
+to prepare better textbook material using AI. The other aspect is research.
+
+So AI is helping us explore problems that we would never think of. So it could actually, generative
+AI is something that can help you explore new problems. So that's how we are dealing with these
+types of issues, utilizing AI for advance in the educational and also research aspect.
+
+Awesome. And finally, what is your personal stake in the advancement of AI? I'm a big fan of AI. I
+utilize AI every day in my teaching and research, and I believe it's going to have a huge impact on
+automating things, making things better, and running things much faster in the future.
+
+Great. Next, our team has had the chance to go out to a town hall meeting and speak with local
+Bethlehem residents about their thoughts on AI development and policies. Resident responses
+were overall negative towards the idea of data center development in their community, with fears
+of utility overload burning the community.
+
+Do you believe these fears are justified as research advancements continue to be made to make
+data centers more sustainable? Yes, I believe the place that these data centers are being
+installed has to be studied and investigated, because there should be flexibility in the power
+system to provide the amount of power that these data centers need. That's why we have seen a
+lot of resistance, also policy making for utilizing better policies for deploying data centers at
+different locations. But on the other hand, I would say grid has a huge capacity.
+
+That means it can provide enough support for data centers if we place them optimally on the grid
+where the flexibility is there. The other problem that we could think of is these data centers have
+their own local generation. So that's a positive side of things that I would like communities to
+know.
+
+These data centers come with a microgrid. So they install in their plants so that they supply their
+need, because data centers cannot be turned off. There was an event on July 22nd of this year in
+Virginia.
+
+We lost a couple of data centers on the grid, and that caused a huge frequency shift in the power
+system that could have destabilized and also caused a blackout in the system. But fortunately,
+we were able to resolve the issue at the grid scale. So these things can happen.
+
+But when you think about local generation at data center, that brings flexibility to the main grid.
+That means whenever the grid needs more power, these data centers can be generation so that
+they can support the grid as well. So it's a two-way street.
+
+There are some benefits and there are some disadvantages. If we can find the middle ground
+and find the best point where these data centers could be installed, then we could benefit from
+their deployment as well. Great.
+
+And finally, what's a closing statement that condenses your perspective on the current
+development of AI and data centers as an academic in a related field? I would say AI is helping
+us to explore new problems in the field and also to generate new solutions for research problems
+that were not solved before. And also utilizing AI can speed up many things and processes in the
+future. So in general, I'm a big fan of AI.
+
+Awesome. Thank you for taking the time to speak with us today and sharing your perspective on
+the topic of AI and data centers.
+
+Transcribed by TurboScribe. Go Unlimited to remove this message.
+
