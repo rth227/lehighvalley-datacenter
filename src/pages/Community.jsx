@@ -66,14 +66,14 @@ export default function Community() {
             <h2 id="resources">{community.resourcesTitle}</h2>
             <p>{community.resourcesBody}</p>
           </div>
-          <ul className="resource-list">
-            {community.resources.map((r, i) => (
-              <li key={i}>
-                <a href={r.url}>{r.label}</a>
-                <span>{r.kind}</span>
-              </li>
-            ))}
-          </ul>
+            <ul className="resource-list">
+              {community.resources.map((r, i) => (
+                <li key={i}>
+                  <a href={r.url}>{r.label}</a>
+                  <span>{r.source}{r.source && ' | '}{r.kind}</span>
+                </li>
+              ))}
+            </ul>
         </div>
       </section>
     </>
