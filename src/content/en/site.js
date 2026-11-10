@@ -3,15 +3,14 @@
 
 export const site = {
   projectTitle: '[Project Title]',
-  tagline: 'Data centers and the Bethlehem community',
+  tagline: 'Data Centers and the Bethlehem Community',
   university: 'Lehigh University',
   course: 'Human-Centered AI: Engagement, Empathy and Ethics',
-  semester: '[Semester Year]',
-  team: ['[Team member name]', '[Team member name]', '[Team member name]', '[Team member name]'],
-  contactEmail: '[team-email@lehigh.edu]',
+  semester: 'Fall 2026',
+  team: ['Riley Hillen', 'Sam Tsui', 'Andrew Sharga', 'Natalie Luscomb', 'Krista Rumpeters'],
 
   nav: [
-    { path: '/', label: 'What’s happening' },
+    { path: '/', label: 'Our project' },
     { path: '/impacts', label: 'Potential impacts' },
     { path: '/community', label: 'Community response' },
     { path: '/human-centered-ai', label: 'Human-centered AI' },
