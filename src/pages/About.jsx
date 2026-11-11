@@ -29,17 +29,13 @@ export default function About() {
       <section className="section section--tinted">
         <div className="wrap prose-sections">
           <article>
-            <h2>{about.methodsTitle}</h2>
-            <p>{about.methodsBody}</p>
-          </article>
-          <article>
             <h2>{about.thanksTitle}</h2>
             <p>{about.thanksBody}</p>
           </article>
           <article>
             <h2>{about.contactTitle}</h2>
             <p>
-              {about.contactBody} <a href={`mailto:${site.contactEmail}`}>{site.contactEmail}</a>.
+              {about.contactBody} <a href={`mailto:${site.contactEmail}`}>{site.contactEmail}</a>
             </p>
           </article>
         </div>
