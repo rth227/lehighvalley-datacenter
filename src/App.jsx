@@ -7,6 +7,7 @@ import Impacts from './pages/Impacts.jsx';
 import Community from './pages/Community.jsx';
 import HumanCenteredAI from './pages/HumanCenteredAI.jsx';
 import About from './pages/About.jsx';
+import Resources from './pages/Resources.jsx';
 import NotFound from './pages/NotFound.jsx';
 import { useContent } from './i18n/LanguageContext.jsx';
 
@@ -30,6 +31,7 @@ export default function App() {
           <Route path="/community" element={<Community />} />
           <Route path="/human-centered-ai" element={<HumanCenteredAI />} />
           <Route path="/about" element={<About />} />
+          <Route path="/resources" element={<Resources />} />
           <Route path="*" element={<NotFound />} />
         </Routes>
       </main>

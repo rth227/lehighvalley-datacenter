@@ -5,5 +5,6 @@ import { impacts } from './impacts.js';
 import { community } from './community.js';
 import { hcai } from './hcai.js';
 import { about } from './about.js';
+import { resources } from './resources.js';
 
-export default { site, home, timeline, timelineLegend, impacts, community, hcai, about };
+export default { site, home, timeline, timelineLegend, impacts, community, hcai, about, resources};
