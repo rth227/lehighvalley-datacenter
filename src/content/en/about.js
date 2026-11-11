@@ -5,20 +5,21 @@ export const about = {
   intro:
     '[Who we are and why we started this project. Mention the course and that this is a student-led project.]',
 
-  teamTitle: 'The team',
+  teamTitle: 'Our Project Team',
   members: [
-    { name: '[Team member name]', role: '[Role on the project]', bio: '[One or two sentences.]' },
-    { name: '[Team member name]', role: '[Role on the project]', bio: '[One or two sentences.]' },
-    { name: '[Team member name]', role: '[Role on the project]', bio: '[One or two sentences.]' },
-    { name: '[Team member name]', role: '[Role on the project]', bio: '[One or two sentences.]' },
+    { name: 'Sam Tsui', role: '[description]'},
+    { name: 'Riley Hillen', role: 'Computer Science & Engineering 2027'},
+    { name: 'Andrew Sharga]', role: '[description]'},
+    { name: 'Natalie Luscomb', role: '[description]'},
+    { name: 'Krista Rumpeters', role: '[description]'},
   ],
 
-  methodsTitle: 'How we did this work',
+  methodsTitle: 'Our Process',
   methodsBody: '[How you chose interviewees, gathered sources, and checked facts.]',
 
-  thanksTitle: 'Thank you',
-  thanksBody: '[Acknowledge interviewees, professors, and community partners.]',
+  thanksTitle: 'Thank you!',
+  thanksBody: 'We want to thank our interviewees, professors, and community partners for making this project possible!',
 
   contactTitle: 'Contact',
-  contactBody: 'Questions, corrections, or want to share your story? Email us at',
+  contactBody: 'Questions or want to share your perspective? Reach out to us at ... ',
 };
