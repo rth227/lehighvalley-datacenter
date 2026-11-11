@@ -13,11 +13,7 @@ export default function Footer() {
         </div>
         <div>
           <p className="footer-label">Created by</p>
-          <ul className="footer-names">
-            {site.team.map((name, i) => (
-              <li key={i}>{name}</li>
-            ))}
-          </ul>
+          <p>{site.team.join(', ')}</p>
         </div>
         <div>
           <p className="footer-label">{site.university}</p>
