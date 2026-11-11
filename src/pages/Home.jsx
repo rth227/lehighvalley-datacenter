@@ -9,16 +9,17 @@ export default function Home() {
   return (
     <>
       <section className="hero">
-        <div className="wrap hero-grid">
-          <div>
-            <h1>{home.heroTitle}</h1>
+        <div className="wrap">
+          <h1>{home.heroTitle}</h1>
+          <div className="hero-grid">
             <p className="lead">{home.heroBody}</p>
+            <ul className="hero-points">
+              {home.heroPoints.map((point, i) => (
+                <li key={i}>{point}</li>
+              ))}
+            </ul>
           </div>
-          <ul className="hero-points">
-            {home.heroPoints.map((point, i) => (
-              <li key={i}>{point}</li>
-            ))}
-          </ul>
+          <p className="hero-context">{home.heroContext}</p>
         </div>
         <svg className="river" viewBox="0 0 1200 60" preserveAspectRatio="none" aria-hidden="true">
           <path className="river-blue" d="M0 30 C 150 5, 300 55, 450 30 S 750 5, 900 30 S 1100 55, 1200 30" />

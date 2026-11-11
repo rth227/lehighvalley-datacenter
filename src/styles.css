@@ -162,9 +162,10 @@ main:focus { outline: none; }
 .tabs li:first-child a { padding-left: 0; }
 
 /* sections */
-.hero { padding-top: clamp(2.5rem, 7vw, 5rem); }
-.hero-grid { display: grid; gap: 2rem; grid-template-columns: minmax(0, 1fr); align-items: end; }
-.hero h1 { max-width: 18ch; }
+.hero { padding-top: clamp(1.5rem, 3vw, 2.5rem); }
+.hero-grid { display: grid; gap: 2rem; grid-template-columns: minmax(0, 1fr); align-items: start; margin-top: 1.5rem; }
+.hero h1 { max-width: 24ch; }
+.hero-context { color: var(--muted); max-width: none; margin-top: 1rem; }
 .hero-points {
   list-style: none; margin: 0; padding: 0 0 0 1.25rem;
   border-left: 3px solid var(--canal);

@@ -2,14 +2,16 @@
 
 export const home = {
   heroTitle: 'What’s happening with data centers in Bethlehem?',
-  heroBody:
-    '[Short blurb about the project. For example: We are Lehigh University students gathering ' +
-    'local voices and clear information about data center development in Bethlehem, so ' +
-    'every resident can understand what is being proposed and take part in the conversation.]',
+  heroBody: [
+    'What happens when data centers are proposed in local communities? Our project, both a student-made documentary and an educational website, shares the voices and opinions of the people who live and work in Bethlehem. We interviewed residents, local officials, and people in the industry because we believe everyone deserves to understand what’s happening in their community and to have a place in the conversation.',
+  ],
+  heroContext: [
+    'Data centers are the buildings that power everyday technology like cloud storage and AI, and they’re being proposed across Pennsylvania at a rapid pace. The Lehigh Valley has become a focus because of its strong energy infrastructure, nearby major cities, and available land. This fall, the conversation reached Bethlehem, with a data center proposed and City Council passing the city’s first rules for them.',
+  ],
   heroPoints: [
-    'Made by students at Lehigh University',
-    'Plain-language information about data centers',
-    'Voices from people who live and work here',
+    'Made by students from Lehigh University',
+    'Representing voices from people who live and work in Bethlehem',
+    'Resources to help everyone join the conversation',
   ],
 
   documentaryTitle: 'The documentary',
