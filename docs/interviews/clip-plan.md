@@ -83,23 +83,24 @@ This page uses only the researchers, Borick, and the watershed speaker. Each cli
 
 > some of the early case studies, communities got, I'm going to use the word kind of rolled over by developers. The the other municipalities have started to change their laws, their codes, to protect themselves from these types of tactics. So they've they've rewritten their zoning ordinances. They've rewritten their land use laws. They've they've hired you know folks that are specialties in these areas, so the playing fields become more even because of the the reaction going forward.
 
-#### 9. `impacts-land-watershed-developer-pulls-out.mp4`
-**Speaker:** Watershed speaker
+#### 9. `impacts-land-watershed-wells.mp4` (replaced the "developer pulls out" clip, 2026-11-10)
+**Speaker:** Travis Pantaleo
 
-> thinking about the insurances that go into what if this doesn't work, you know, what if halfway through the development of a data center, a developer pulls out, you know, what type of insurances are in place to make sure that those grounds are restored to what they originally were, and to be able to hold that developer accountable.
+> So if you are on well water and there's a data center going up in proximity to your property. [...] With then noise, heat, and vibration, kind of looking at folks that are distributed a little bit further away from the data center.
 
-### Jobs, taxes, and the local economy
+### Jobs, taxes, and government
 
-#### 10. `impacts-economy-watershed-jobs.mp4`
-**Speaker:** Watershed speaker
+#### 10. ★ `impacts-economy-borick-state-policy.mp4`
+**Speaker:** Dr. Borick
+**Note:** Replaced Travis Pantaleo's jobs clip, 2026-11-10. Start at "There's some government executive orders" (just after "where Pennsylvania is going to have to do"). End at "the election outcomes should be reflected", before the Obama quote. He is talking about state politics during the 2026 election season, not a Bethlehem decision.
 
-> And beyond that, you know, it's just really understanding, you know, how many jobs is this going to create in its construction compared to when it's actually in operation because they're night and day. You know what is the impact to the electrical grid? You know what are people thinking that they're going to get because a data center gets developed as far as you know breaks in their electricity bill, for lack of a better term
+> There's some government executive orders on this matter, but a lot of it still has to be resolved through legislative processes. And so you'll see a number of those people that that owe, in some part, their positions on data centers to their arrival in office under the microscope to say, okay, what are you doing? And so I expect there'll be much more activity on this. At the same time, you're going to have much greater lobbying and investment from AI companies also reaching out. And so that doesn't mean it's going to be dominated by one kind of perspective, but certainly the election outcomes should be reflected.
 
-#### 11. ★ `impacts-economy-watershed-embracing.mp4`
-**Speaker:** Watershed speaker
-**Note:** This is the only clip about communities welcoming data centers. Keep it even if you cut others. End at "there is a mix", before the unsure Pennsylvania rankings.
+#### 11. ★ `impacts-economy-moazeni-take-our-time.mp4`
+**Speaker:** Dr. Moazeni
+**Note:** Replaced Travis Pantaleo's "communities embracing data centers" clip, 2026-11-10. From her closing statement. End at "skip them", before she says data centers are "going to be here, whether we like it or not" (left out on purpose, see below).
 
-> But you also have to keep in mind there are a fair amount of communities that are embracing data centers, much like kind of the large scale parks that you used to see with Bell Labs, Facebook, Google, to use more contemporary examples that want to have the data center as the center point, but then retail shopping apartments, you know. So it there is a mix
+> I believe that technology is good. Actually, it can be great. It can be very beneficial to our lives as long as we don't rush into it. I believe that we shouldn't just allow data centers to take a shortcut to, you know, to be developed overnight. And similar to any other technology, that we take our time, we study them, we'll look at the regulations, we'll look at the impacts and all of those. Maybe, yeah, we can do that at a higher pace, more prioritized, but we cannot ignore them and skip them.
 
 ### Noise, air, and the environment
 
@@ -108,10 +109,11 @@ This page uses only the researchers, Borick, and the watershed speaker. Each cli
 
 > I think water is the primary focus, just because it's the most tangible. But you really have to be able to pay close attention to the footprint of you know, and I hate to sound repetitious, noise, vibration, and heat. You know, because folks may not necessarily think that's what they're going to feel, but it's going to be a major part of any type of data center development, and that's just the data center operation. You obviously have the physical development of it, backup generators, which are probably going to be you know relatively loud in close proximity compared compared to the data center itself.
 
-#### 13. `impacts-environment-moazeni-noise.mp4`
-**Speaker:** Dr. Moazeni
+#### 13. `impacts-environment-pearl-ecosystem.mp4`
+**Speaker:** Prof. Pearl (around 15:26:22 to 15:26:44)
+**Note:** Replaced Dr. Moazeni's noise clip, 2026-11-10. Start at "I think about a data center" (after "I feel similarly for both", which answers the interviewer's question). An interviewer's "Yeah" is stamped 15:26:33 and may overlap, so check the audio. End at "pushed into different areas", before the deer comment. She is speaking as a resident.
 
-> But noise, for example, would be another issue that many, many communities have raised concern about. And I know that many people are working on that. Actually, ACES has taken upon a project, a potential project, to work on the noise problem.
+> I think about a data center and I'm literally just the first thing I'm thinking is like the water usage, the electric, the sound, the light, how even if it's not disrupting the humans, like the ecosystem, the animals in that area is now like being pushed out and pushed into different areas.
 
 ### Taken off this page
 
@@ -123,7 +125,9 @@ These are no longer planned for Impacts. They could still fit the Community page
 | Chris (audio only) | Local water system and grid | "The impact would be on our already struggling water system" |
 | Joel Atkinson | Warehouse comparison | "It's not quite the same" |
 | Prof. Pearl | Bethlehem's industrial past and jobs (around 15:21:08 to 15:21:42) | "And I was thinking about it actually" |
-| Prof. Pearl | Ecosystem and wildlife (around 15:26:22) | "I think about a data center" |
+| Travis Pantaleo | Communities embracing data centers (replaced by Moazeni's "take our time" clip, 2026-11-10) | "But you also have to keep in mind" |
+| Dr. Moazeni | Noise as a community concern; mentions ACES (replaced by Pearl's ecosystem clip, 2026-11-10) | "But noise, for example" |
+| Travis Pantaleo | Questions about jobs and electric bills (replaced by Borick's state policy clip, 2026-11-10) | "And beyond that, you know, it's just really understanding" |
 
 ## Human-centered AI (`/human-centered-ai`)
 

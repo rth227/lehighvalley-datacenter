@@ -34,6 +34,7 @@ export default function Impacts() {
                 {t.clips?.length > 0 && (
                   <>
                     <h3 className="clips-heading">{impacts.clipsHeading}</h3>
+                    {t.clipsIntro && <p className="clips-intro">{t.clipsIntro}</p>}
                     <div className="clip-grid">
                       {t.clips.map((c) => (
                         <Clip key={c.file} clip={c} />
