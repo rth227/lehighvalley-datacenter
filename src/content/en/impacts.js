@@ -156,7 +156,7 @@ export const impacts = {
         {
           file: 'impacts-land-borick-zoning.mp4',
           speaker: 'Dr. Christopher Borick',
-          role: 'Professor of Political Science and Director, Institute of Public Opinion, Muhlenberg College',
+          role: 'Professor of Political Science, Lehigh University',
           label: 'Researcher\'s view',
           title: 'How towns have changed their rules',
           note: 'A general observation about communities across the country, not a finding about Bethlehem.',
@@ -221,7 +221,7 @@ export const impacts = {
         {
           file: 'impacts-economy-borick-state-policy.mp4',
           speaker: 'Dr. Christopher Borick',
-          role: 'Professor of Political Science and Director, Institute of Public Opinion, Muhlenberg College',
+          role: 'Professor of Political Science, Lehigh University',
           label: 'Researcher\'s view',
           title: 'What voters will expect from lawmakers',
           note: 'He is talking about Pennsylvania lawmakers elected this year, some partly because of their positions on data centers.',

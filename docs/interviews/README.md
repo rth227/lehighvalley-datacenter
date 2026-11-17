@@ -5,7 +5,7 @@ Raw transcripts. Every person recorded consented to being part of the project. S
 | File | Speaker | Role / capacity | Setting | Consent |
 |---|---|---|---|---|
 | pearl.txt | Prof. Kallie Pearl | Lehigh CS professor (intro programming, computing ethics); Hellertown resident | Sit-down interview | Yes |
-| borick.txt | Dr. Christopher Borick | Professor of Political Science and Director, Muhlenberg College Institute of Public Opinion (per muhlenberg.edu, checked 2026-11-10); spoke on the politics of data center development | Sit-down interview | Yes |
+| borick.txt | Dr. Christopher Borick | Professor of Political Science, Lehigh University (changed at team request 2026-11-17; earlier listing was Muhlenberg College per muhlenberg.edu, checked 2026-11-10); spoke on the politics of data center development | Sit-down interview | Yes |
 | moazeni.txt | Dr. Farrah Moazeni (faculty page: Faegheh (Farrah) Moazeni; transcript says "Farah Manzani") | Asst. Prof., Civil & Environmental Engineering, Lehigh; ACES founding member | Sit-down interview | Yes |
 | khazaei.txt | Dr. Javad Khazaei (transcript says "Kazi") | Assoc. Prof., Electrical & Computer Engineering, Lehigh; ACES founding member | Sit-down interview | Yes |
 | watershed.txt | Travis Pantaleo | Vice President, Cooks Creek Watershed Association; Media Officer, Watershed Coalition of the Lehigh Valley (per cookscreekpa.org board page, checked 2026-11-10). Graduate certificate in Fisheries Management, Oregon State. Says in the interview his answers reflect his own education and views | Sit-down interview | Yes |
