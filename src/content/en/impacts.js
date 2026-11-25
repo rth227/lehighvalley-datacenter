@@ -3,8 +3,10 @@
 export const impacts = {
   title: 'Potential impacts',
   intro:
-    '[Introduce this page: what kinds of effects data centers can have on a community, ' +
-    'and a note that impacts can be both positive and negative.]',
+    'Data centers can affect a community in many ways, some positive and some negative. This page covers five ' +
+    'areas: electricity, water, land and zoning, jobs and taxes, and noise and the environment. For each one, we ' +
+    'separate what is known from what is projected, and we note where information about the Bethlehem proposal ' +
+    'is still missing.',
   clipsHeading: 'From our interviews',
   // clips: drop the video in public/clips/ using `file`. label is the claim status shown to visitors.
   topics: [
@@ -258,8 +260,23 @@ export const impacts = {
     {
       id: 'environment',
       title: 'Noise, air, and the environment',
-      summary: '[Noise from cooling equipment, backup generators, and emissions.]',
-      points: ['[Key fact or finding]', '[Key fact or finding]'],
+      // facts checked 2026-11-25 against the Penn State IEE article and the Bill 28-2026 text posted by the city
+      summary:
+        'Data centers can be loud. Their cooling systems run around the clock, and their backup diesel generators ' +
+        'are tested regularly and run during power outages. How much a specific facility affects its neighbors ' +
+        'depends on its design, its equipment, and how far it is from homes.',
+      points: [
+        'A Penn State energy law expert writes that data center noise comes mostly from cooling systems and diesel ' +
+          'generators, and that emissions from diesel generators can add to local air pollution and worsen asthma.',
+        'Bethlehem’s data center bill (Bill 28-2026) limits noise at the property line to 60 decibels during the day ' +
+          'and 55 at night. It also requires sound studies before construction and after opening, a vibration study, ' +
+          'a lighting study, and a plan for managing waste heat.',
+        'These rules apply to proposals filed after City Council’s October 2026 vote. The Industrial Drive proposal ' +
+          'was filed before the vote, so it is reviewed under the older rules.',
+        'One study found that data centers raised nearby air temperatures by an average of 3.6°F. It is a preprint, ' +
+          'which means it has not yet been reviewed by other scientists.',
+        'We have not found a public noise or air quality study for the Bethlehem proposal.',
+      ],
       clipsIntro:
         'Noise came up in several of our interviews. Travis Pantaleo describes what neighbors might notice beyond ' +
         'water, including backup generators, and Prof. Kallie Pearl, a Hellertown resident, thinks about how sound and ' +
@@ -285,7 +302,16 @@ export const impacts = {
             'I think about a data center and I\'m literally just the first thing I\'m thinking is like the water usage, the electric, the sound, the light, how even if it\'s not disrupting the humans, like the ecosystem, the animals in that area is now like being pushed out and pushed into different areas.',
         },
       ],
-      sources: [{ label: '[Source name]', url: '#' }],
+      sources: [
+        {
+          label: 'Penn State Institutes of Energy and the Environment, "How Pennsylvania towns are protecting themselves from the noise, heat and utility costs of massive data centers" (June 11, 2026)',
+          url: 'https://iee.psu.edu/news/how-pennsylvania-towns-are-protecting-themselves-noise-heat-and-utility-costs-massive-data',
+        },
+        {
+          label: 'City of Bethlehem, Bill 28-2026: Amending the zoning ordinance for data centers',
+          url: 'https://www.bethlehem-pa.gov/getmedia/648da1eb-cc04-4fb3-9fc7-c2a85e311b18/08a-Bill-28-2026-Amending-Part-13-of-the-Zoning-Ordinance-Data-Centers.pdf',
+        },
+      ],
     },
   ],
 };

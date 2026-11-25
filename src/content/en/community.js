@@ -6,20 +6,52 @@ export const community = {
 
   voicesTitle: 'In their words...',
   voices: [
-    { quote: '[Quote from an interview.]', name: '[Name]', role: '[Bethlehem resident, neighborhood]' },
-    { quote: '[Quote from an interview.]', name: '[Name]', role: '[Local business owner]' },
-    { quote: '[Quote from an interview.]', name: '[Name]', role: '[Industry or city representative]' },
+    // quotes from docs/interviews (see clip-plan.md "In their words" cards); stutters cleaned up
+    { quote: 'I think that what’s really exciting about this issue is that it really does unite both sides.', name: 'Meg', role: 'Neighborhood resident, interviewed at the Bethlehem City Council meeting' },
+    { quote: 'They bring coalitions together, and combinations that aren’t always neatly fit into the way we think about things.', name: 'Dr. Christopher Borick', role: 'Professor of Political Science, Lehigh University' },
+    { quote: 'There are some benefits and there are some disadvantages. If we can find the middle ground and find the best point where these data centers could be installed, then we could benefit from their deployment as well.', name: 'Dr. Javad Khazaei', role: 'Associate Professor, Electrical and Computer Engineering, Lehigh University' },
+    { quote: 'It’s such a mixed bag, and I have such conflicting feelings about it.', name: 'Prof. Kallie Pearl', role: 'Computer Science professor, Lehigh University; Hellertown resident' },
   ],
+  voicesNote:
+    'Whose voices are here, and whose are missing: the people we interviewed at the council meeting all attended ' +
+    'the same meeting, and three of the five are leaders of the Lehigh Valley Democratic Socialists of America. We ' +
+    'did not interview a developer, a city official, a local business owner, or a local supporter of the proposal, ' +
+    'so those perspectives are not represented on this site.',
 
   clipsTitle: 'Interview Clips',
-  clipsBody: '[Short description of the clips.]',
-  clips: ['[Clip title]', '[Clip title]', '[Clip title]'],
+  clipsBody:
+    'Short clips from our interviews. Each one is labeled with who is speaking and whether it is a personal ' +
+    'perspective or a researcher’s view, and each has a full transcript.',
+  // each clip is either a full clip object (same format as impacts.js) or a '[placeholder]' string
+  clips: [
+    {
+      // cut from pearlinterviewedited.mp4, 4:47 to 5:21
+      file: 'community-pearl-electric-bill.mp4',
+      speaker: 'Prof. Kallie Pearl',
+      role: 'Computer Science professor, Lehigh University; Hellertown resident',
+      label: 'Personal perspective',
+      title: 'What residents need to know',
+      note:
+        'Prof. Pearl talks about how rising costs affect her household and why she thinks residents need clear, ' +
+        'honest information about new projects. The costs she mentions are her own experience, not a measured ' +
+        'figure for the area.',
+      // from docs/interviews/pearl.txt, with filler words trimmed. check against the recording.
+      transcript:
+        'I think the immediate thing is, if people are going to see a change to their bottom line, like if my ' +
+        'electric bill is going to go up, and the cost of electricity is already skyrocketing, I’m not happy. ' +
+        'We’re about to go into winter, right? I’m going to pay, you know, whatever to heat my house. I literally ' +
+        'make the joke with my husband: okay, I wonder what the cost will be this year, because we could use less ' +
+        'than we did last year and we pay two times as much, which doesn’t work out. I think a lot of it has to be ' +
+        'transparency in planning and just education for folks.',
+    },
+  ],
 
   involvedTitle: 'How to Get Involved',
   involved: [
-    { title: 'Attend a public meeting', body: '[Where city council / planning meetings are posted and how public comment works.]', link: { label: '[City meeting calendar]', url: '#' } },
-    { title: 'Contact your city council', body: '[How to reach council members.]', link: { label: '[City council page]', url: '#' } },
-    { title: 'Learn more before you weigh in', body: '[Short line about reading up on how data centers work and what’s been proposed locally.]', link: { label: 'See resources below', url: '#resources' } },
+    // meeting and contact details from bethlehem-pa.gov and the Rules of Council (rev. Dec. 2024), checked 2026-11-25
+    { title: 'Attend a public meeting', body: 'Regular City Council meetings are at 7 p.m. at Town Hall, 10 East Church Street. They are open to the public and streamed live on the city’s YouTube channel. At each meeting there is time for public comment, and each person can speak for up to five minutes. Planning Commission meetings are listed on the city’s Planning and Zoning calendar.', link: { label: 'City meeting calendar', url: 'https://www.bethlehem-pa.gov/Calendar' } },
+    { title: 'Contact your city council', body: 'Each of the seven council members has a city email address, listed on the council members page. You can also reach the City Clerk’s office, which handles council business, at cityclerk@bethlehem-pa.gov or (610) 865-7130.', link: { label: 'City Council members', url: 'https://www.bethlehem-pa.gov/Meet-Your-Government/City-Council/Members' } },
+    { title: 'Learn more before you weigh in', body: 'It helps to know how data centers work and what has actually been proposed here before you speak up. Our Potential Impacts page and the resources below are a good place to start.', link: { label: 'See resources below', url: '#resources' } },
   ],
 
   resourcesTitle: 'Resources',

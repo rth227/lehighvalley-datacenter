@@ -12,7 +12,6 @@ export const site = {
   nav: [
     { path: '/', label: 'Our Project' },
     { path: '/impacts', label: 'Potential Impacts' },
-    { path: '/community', label: 'Community Response' },
     { path: '/resources', label: 'Resources' },
     { path: '/human-centered-ai', label: 'Human-Centered AI' },
     { path: '/about', label: 'About us' },

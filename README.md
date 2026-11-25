@@ -23,19 +23,18 @@
 - Topics - electricity and the power grid; water use; land, zoning, and neighborhoods; jobs, taxes, and the local economy; noise, air, and the environment
 - Each topic has a summary, key facts, and sources
 
-**3. Community response** (`/community`)
+**3. Human-centered AI** (`/human-centered-ai`)
 - Page introduction
-- Quotes from interviews
-- Interview clips - video placeholders
-- How to get involved - public meetings, contacting city council, local groups
-- Resources - list of articles, city documents, reports, and videos
-
-**4. Human-centered AI** (`/human-centered-ai`)
-- Page introduction
-- Sections - physical side of AI, engagement, empathy, ethics
+- Sections - physical side of AI, engagement, ethics
+- Community response (embedded section; `/community` redirects here)
+  - Introduction
+  - Quotes from interviews
+  - Interview clips - video placeholders
+  - How to get involved - public meetings, contacting city council, local groups
+  - Resources - list of articles, city documents, reports, and videos
 - What we've learned - team reflection
 
-**5. About us** (`/about`)
+**4. About us** (`/about`)
 - Page introduction
 - The team - headshot, name, role, and short bio for each member
 - Summary of the project

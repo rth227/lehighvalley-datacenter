@@ -1,23 +1,33 @@
 import { useContent } from '../i18n/LanguageContext.jsx';
-import PageIntro from './PageIntro.jsx';
 import MediaPlaceholder from '../components/MediaPlaceholder.jsx';
+import Clip from '../components/Clip.jsx';
 
+// community response, shown as a section inside the Human-Centered AI page
+// (it no longer has its own tab - /community redirects there)
 export default function Community() {
   const { content } = useContent();
   const { community } = content;
 
   return (
-    <>
-      <PageIntro title={community.title} intro={community.intro} />
+    <div id="community-response">
+      <section className="section section--tinted" aria-labelledby="community-title">
+        <div className="wrap narrow">
+          <h2 id="community-title">{community.title}</h2>
+          <p className="lead">{community.intro}</p>
+        </div>
+      </section>
 
       <section className="section" aria-labelledby="voices">
         <div className="wrap">
-          <h2 id="voices">{community.voicesTitle}</h2>
+          <div className="section-head">
+            <h2 id="voices">{community.voicesTitle}</h2>
+            {community.voicesNote && <p>{community.voicesNote}</p>}
+          </div>
           <div className="voices">
             {community.voices.map((v, i) => (
               <figure key={i} className="voice">
                 <blockquote>
-                  <p>{v.quote}</p>
+                  <p>“{v.quote}”</p>
                 </blockquote>
                 <figcaption>
                   <strong>{v.name}</strong>
@@ -36,9 +46,13 @@ export default function Community() {
             <p>{community.clipsBody}</p>
           </div>
           <div className="media-grid media-grid--three">
-            {community.clips.map((c, i) => (
-              <MediaPlaceholder key={i} kind="video" ratio="16 / 9" label={c} />
-            ))}
+            {community.clips.map((c, i) =>
+              typeof c === 'string' ? (
+                <MediaPlaceholder key={i} kind="video" ratio="16 / 9" label={c} />
+              ) : (
+                <Clip key={c.file} clip={c} />
+              )
+            )}
           </div>
         </div>
       </section>
@@ -76,6 +90,6 @@ export default function Community() {
             </ul>
         </div>
       </section>
-    </>
+    </div>
   );
 }

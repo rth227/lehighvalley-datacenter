@@ -15,15 +15,19 @@ export const home = {
   ],
 
   documentaryTitle: 'The documentary',
-  documentaryBody: '[One or two sentences about the documentary and when it will be released.]',
-  documentaryPlaceholder: 'Documentary coming [release month]',
+  documentaryBody:
+    'Alongside this website, our team is making a short documentary from the interviews we recorded with ' +
+    'Bethlehem residents, local organizers, and Lehigh researchers. It will be posted here when it is finished.',
+  documentaryPlaceholder: 'Documentary coming soon',
 
   mediaTitle: 'Photos and videos',
-  mediaBody: '[Short description of the photos and clips gathered so far.]',
+  mediaBody:
+    'Photos and short clips from our interviews and from the Bethlehem City Council meeting on data center rules.',
 
   timelineTitle: 'Timeline of events',
   timelineBody:
-    '[Explain what this timeline covers: local regulations, proposals, public meetings, and construction.]',
+    'Key events in Bethlehem’s data center story, from the first draft rules to the latest proposals. Colors show ' +
+    'whether an event is a new regulation, a development proposal, or community action, and each event links to its source.',
 
   learnTitle: 'Data centers, explained',
   learnItems: [
