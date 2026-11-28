@@ -16,7 +16,11 @@ export default function About() {
           <ul className="team">
             {about.members.map((m, i) => (
               <li key={i}>
-                <MediaPlaceholder kind="photo" ratio="1 / 1" label="[Headshot]" />
+                {m.photo ? (
+                  <img className="team-photo" src={`/team/${m.photo}`} alt={`Headshot of ${m.name}`} />
+                ) : (
+                  <MediaPlaceholder kind="photo" ratio="1 / 1" label="[Headshot]" />
+                )}
                 <h3>{m.name}</h3>
                 <p className="team-role">{m.role}</p>
                 <p>{m.bio}</p>
