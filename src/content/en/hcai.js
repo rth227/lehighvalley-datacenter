@@ -4,29 +4,32 @@ export const hcai = {
   title: 'Human-centered AI',
   intro:
     'Human-centered AI is the idea that technology should be designed and built around the needs, values, and ' +
-    'voices of the people it affects, not just around what is fastest or most profitable. Most conversations about ' +
-    'AI focus on apps and chatbots. But AI also runs on physical buildings: data centers that use land, electricity, ' +
-    'and water in real neighborhoods. That makes data centers one of the places where AI meets a community most ' +
-    'directly, and where the people who live nearby have a lot at stake. We are looking at the data center proposed ' +
-    'in Bethlehem through this lens because the people affected by these decisions deserve to be heard while they ' +
-    'are being made. Our goal is to get community voices out there, from residents and organizers to researchers, ' +
-    'so that future decisions about technology in the Lehigh Valley can better reflect the people who live here.',
+    'voices of the people it affects, not just around what is fastest or most profitable. AI can feel like ' +
+    'something that lives on a screen, but it depends on physical buildings: data centers that use land, ' +
+    'electricity, and water in real neighborhoods. That makes a data center one of the places where AI meets a ' +
+    'community most directly. We are looking at the data center proposed in Bethlehem through this lens ' +
+    'because the people affected by these decisions deserve to be heard while the decisions are being made. ' +
+    'This page follows that idea in three steps, from what data centers take from a place, to how residents ' +
+    'can take part, to the ethical questions of who gets a say. Then it turns to the community itself. Our ' +
+    'goal is to get these voices out there, so that future decisions about technology in the Lehigh Valley ' +
+    'better reflect the people who live here.',
   sections: [
     {
       title: 'The physical side of AI',
       // numbers match the sourced facts on the Potential Impacts page (power and water sections)
       body:
-        'Most people experience AI as an app on a phone or laptop. But AI tools like chatbots actually run in data ' +
-        'centers: buildings full of computers that need a steady supply of electricity, and often water to keep ' +
-        'them cool. The scale can be large. A 2024 national laboratory report estimated that U.S. data centers used ' +
-        'about 17 billion gallons of water for cooling in 2023. Closer to home, the developers of the Route 22 ' +
-        'proposal estimate it would use about 120 megawatts of electricity at its busiest, and about 3 million gallons ' +
-        'of water to fill its cooling system. Data centers can also add noise, heat, and air pollution from backup ' +
-        'generators. How much of this a single facility causes depends on its design, and much about the Bethlehem ' +
-        'proposal is still unknown. Our Potential Impacts page covers each of these in more detail, with sources.',
+        'Most people experience AI as an app on a phone or laptop. Behind that app is a data center: a building ' +
+        'full of computers that needs a steady supply of electricity, and often water to keep them cool. The scale ' +
+        'can be large. A 2024 national laboratory report estimated that U.S. data centers used about 17 billion ' +
+        'gallons of water for cooling in 2023. Closer to home, the developers of the Route 22 proposal estimate it ' +
+        'would use about 120 megawatts of electricity at its busiest, and about 3 million gallons of water to fill ' +
+        'its cooling system. Data centers can also add noise, heat, and air pollution from backup generators. How ' +
+        'much of this a single facility causes depends on its design, and much about the Bethlehem proposal is ' +
+        'still unknown. Our Potential Impacts page covers each of these in more detail, with sources.',
       clipsIntro:
-        'For many people we spoke with, environmental effects were the first concern. Prof. Pearl reflects on what ' +
-        'it means to have AI’s footprint close to home, and Joel Atkinson names the local impacts he worries about most.',
+        'For many people we spoke with, the environment was the first concern. Prof. Pearl reflects on what it ' +
+        'means to have AI’s footprint close to home, and Joel Atkinson names the local impacts he worries about ' +
+        'most.',
       clips: [
         {
           // cut from pearlinterviewedited.mp4, 3:24 to 3:54
@@ -63,13 +66,14 @@ export const hcai = {
     {
       title: 'Engagement',
       body:
-        'Engagement means the people affected by a decision have a real chance to shape it, not just hear about it ' +
-        'afterward. The researchers and residents we interviewed described different ways that can happen: going to ' +
-        'public meetings, reading the documents the city is required to share, voting in local elections, and ' +
-        'bringing engineers, policymakers, environmental groups, and residents into the same conversation early on.',
+        'When the effects of a technology land on real neighborhoods, the people who live there should help shape ' +
+        'it, not just hear about it afterward. That is what engagement means. The researchers and residents we ' +
+        'interviewed described different ways it can happen: going to public meetings, reading the documents the ' +
+        'city is required to share, voting in local elections, and bringing engineers, policymakers, environmental ' +
+        'groups, and residents into the same conversation early on.',
       clipsIntro:
-        'We asked Dr. Borick how communities should approach conversations about new developments like data ' +
-        'centers. He describes the ways residents can get their voices into the process.',
+        'We asked Dr. Borick how communities should approach new developments like data centers. He walks through ' +
+        'the ways residents can get their voices into the process.',
       clips: [
         {
           // cut from Borick-Interview.mp4, 9:34 to 10:39
@@ -98,20 +102,19 @@ export const hcai = {
       title: 'Ethics',
       // based on the "is the community informed?" answers in docs/interviews/protest-1 to protest-5
       body:
-        'Ethics is not only about what gets built. It is also about how decisions are made and who gets a real say. ' +
-        'People can only take part in a decision if they understand what is being proposed. At the city council ' +
-        'meeting, we asked residents and local organizers whether the community is well informed about data centers. ' +
-        'Most said no, or not yet. Some felt the language around these projects was vague, for example describing ' +
-        'them as “cloud” storage without mentioning AI, or zoning documents that leave questions unanswered. Others ' +
-        'said data centers are new enough that many people simply have not heard about them. Not everyone agreed: one ' +
+        'Engagement only works if people understand what they are being asked to weigh in on. That makes ' +
+        'information an ethical question, not just a practical one. At the city council meeting, we asked ' +
+        'residents and local organizers whether the community is well informed about data centers. Most said no, ' +
+        'or not yet. Some felt the language around these projects was vague, for example describing them as ' +
+        '“cloud” storage without mentioning AI, or zoning documents that leave questions unanswered. Others said ' +
+        'data centers are new enough that many people simply have not heard of them. Not everyone agreed, and one ' +
         'resident said people are choosing to get educated. These are personal perspectives, not findings we have ' +
-        'verified. But they raise a fair ethical question: when a project could affect a community’s water, power, and ' +
+        'verified. Still, they raise a fair question: when a project could affect a community’s water, power, and ' +
         'neighborhoods, who is responsible for making sure residents understand it before decisions are made? ' +
         'Helping close that gap is part of why we built this site.',
       // clips: drop the video in public/clips/ using `file` (same format as impacts.js clips)
       clipsIntro:
-        'Two members of the Lehigh Valley DSA answer our question about whether the community is informed enough, ' +
-        'and they see it differently.',
+        'Two members of the Lehigh Valley DSA answer that question, and they see it differently.',
       clips: [
         {
           file: 'hcai-ethics-burns-not-informed.mp4',
@@ -160,10 +163,10 @@ export const hcai = {
   reflectionTitle: 'What we’ve learned',
   // draft written from the project's work so far - team, edit this so it reflects what you actually learned
   reflectionBody:
-    'Going into this project, many of us thought of AI mainly as software. Talking with residents, researchers, ' +
-    'and organizers showed us how physical it is, and how many people care about where it gets built and who gets ' +
-    'to decide. We also learned how hard it can be to find clear, reliable information about a local proposal, ' +
-    'which is why we tried to label what on this site is a fact, a projection, or a personal opinion. Finally, we ' +
-    'noticed whose voices were missing. We did not hear from developers, city officials, or local supporters of ' +
-    'the proposal, and a fuller picture would include them.',
+    'Going into this project, many of us thought of AI mainly as software. Talking with residents, ' +
+    'researchers, and organizers showed us how physical it is, and how much people care about where it gets ' +
+    'built and who gets to decide. We also learned how hard it can be to find clear, reliable information ' +
+    'about a local proposal, which is why we tried to label what on this site is a fact, a projection, or a ' +
+    'personal opinion. Most of all, we learned that listening is where a human-centered approach begins, and ' +
+    'that the conversation in Bethlehem is still going.',
 };

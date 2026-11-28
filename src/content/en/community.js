@@ -2,7 +2,7 @@
 
 export const community = {
   title: 'Community Response',
-  intro: "Developers proposed a two-story data center facility with a 65,000 square-foot footprint along Route 22. The proposal sparked a lot of conversation around Bethlehem, as not everyone sees this issue in the same light. Some local residents are worried about how it could affect their water, utility bills, and neighborhoods, while some are focused on potential growth. When the City Council held a public hearing on the city's first data center rules, residents packed the Town Hall for during a nearly four-hour meeting to share their views. Our team has spent the semester interviewing Bethlehem residents, people who work in the industry, and people who work in local government, to understand what data center development means for the people who live here.",
+  intro: "Developers proposed a two-story data center facility with a 65,000 square-foot footprint along Route 22. The proposal sparked a lot of conversation around Bethlehem, as not everyone sees this issue in the same light. Some local residents are worried about how it could affect their water, utility bills, and neighborhoods, while some are focused on potential growth. When the City Council held a public hearing on the city's first data center rules, residents packed Town Hall for a nearly four-hour meeting to share their views. Our team has spent the semester interviewing Bethlehem residents, people who work in the industry, and people who work in local government, to understand what data center development means for the people who live here.",
 
   voicesTitle: 'In their words...',
   voices: [
@@ -15,15 +15,15 @@ export const community = {
     { quote: 'It’s a two-way street. There are some benefits and there are some disadvantages.', name: 'Dr. Javad Khazaei', role: 'Associate Professor, Electrical and Computer Engineering, Lehigh University', why: 'Data centers can bring benefits and costs. Being human-centered means weighing both honestly, with the community at the table.' },
   ],
   voicesNote:
-    'A human-centered approach starts with listening. These are some of the voices we heard this semester, from ' +
-    'researchers, residents, and local organizers. They don’t all agree, and that’s the point: decisions about ' +
-    'technology in our community should be shaped by the full range of people who live with them. Each quote is ' +
-    'that person’s own view, shared in their own words.',
+    'Listening is where a human-centered approach begins. These are some of the voices we heard this semester, ' +
+    'from researchers, residents, and local organizers. They don’t all agree, and that is the point. Decisions ' +
+    'about technology in our community should be shaped by the full range of people who live with them. Each ' +
+    'quote is that person’s own view, in their own words.',
 
   clipsTitle: 'Interview Clips',
   clipsBody:
-    'Short clips from our interviews. Each one is labeled with who is speaking and whether it is a personal ' +
-    'perspective or a researcher’s view, and each has a full transcript.',
+    'Hear more from the people we interviewed. Each clip says who is speaking and whether it is a personal ' +
+    'perspective or a researcher’s view, and each one has a full transcript.',
   // each clip is either a full clip object (same format as impacts.js) or a '[placeholder]' string
   clips: [
     {
