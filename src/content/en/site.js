@@ -7,7 +7,7 @@ export const site = {
   university: 'Lehigh University',
   course: 'COMM 351: Human-Centered AI: Engagement, Empathy and Ethics',
   semester: 'Fall 2026',
-  team: ['Sam Tsui', 'Riley Hillen', 'Andrew Sharga', 'Natalie Luscomb', 'Krista Rumpeters'],
+  team: ['Sam Tsui', 'Riley Hillen', 'Krista Rumpeters', 'Natalie Luscomb', 'Andrew Sharga'],
 
   nav: [
     { path: '/', label: 'Our Project' },
