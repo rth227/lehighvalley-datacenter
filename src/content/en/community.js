@@ -6,17 +6,19 @@ export const community = {
 
   voicesTitle: 'In their words...',
   voices: [
-    // quotes from docs/interviews (see clip-plan.md "In their words" cards); stutters cleaned up
-    { quote: 'I think that what’s really exciting about this issue is that it really does unite both sides.', name: 'Meg', role: 'Neighborhood resident, interviewed at the Bethlehem City Council meeting' },
-    { quote: 'They bring coalitions together, and combinations that aren’t always neatly fit into the way we think about things.', name: 'Dr. Christopher Borick', role: 'Professor of Political Science, Lehigh University' },
-    { quote: 'There are some benefits and there are some disadvantages. If we can find the middle ground and find the best point where these data centers could be installed, then we could benefit from their deployment as well.', name: 'Dr. Javad Khazaei', role: 'Associate Professor, Electrical and Computer Engineering, Lehigh University' },
-    { quote: 'It’s such a mixed bag, and I have such conflicting feelings about it.', name: 'Prof. Kallie Pearl', role: 'Computer Science professor, Lehigh University; Hellertown resident' },
+    // quotes from docs/interviews; filler words and stutters cleaned up, "..." marks skipped words
+    { quote: 'I believe that technology is good. Actually, it can be great. It can be very beneficial to our lives as long as we don’t rush into it.', name: 'Dr. Farrah Moazeni', role: 'Assistant Professor, Civil and Environmental Engineering, Lehigh University', why: 'Human-centered AI isn’t about stopping technology. It’s about moving at a pace that gives communities time to study the impacts and prepare.' },
+    { quote: 'Should I really be requiring this tool that I know has these implications? Should I be encouraging a classroom of people to be using it all at the same time, and not thinking about the energy usage on top of it?', name: 'Prof. Kallie Pearl', role: 'Computer Science professor, Lehigh University, on using AI in her classes', why: 'Every AI prompt has a real-world cost in energy and water. Thinking about who pays that cost, even in everyday use, is at the heart of human-centered AI.' },
+    { quote: 'Large, financially resourced entities come into really small communities with all kinds of top-notch legal teams, while local communities are often pretty limited. They have a lot of volunteers doing part-time governance.', name: 'Dr. Christopher Borick', role: 'Professor of Political Science, Lehigh University', why: 'When the people building AI infrastructure have far more resources than the towns deciding on it, residents’ voices can get drowned out. Human-centered AI means leveling that playing field.' },
+    { quote: 'It is very much the move fast and break things mentality. They’re trying to get these built as quickly as possible.', name: 'Julius Burns', role: 'Steering committee, Lehigh Valley DSA (Democratic Socialists of America)', why: '“Move fast and break things” is a famous tech-industry motto. He’s asking whether that speed leaves room for the people who live next to what gets built.' },
+    { quote: 'I think that what’s really exciting about this issue is that it really does unite both sides.', name: 'Meg', role: 'Neighborhood resident, interviewed at the Bethlehem City Council meeting', why: 'Concerns about data centers cross party lines. That common ground gives communities a stronger voice in how AI is built.' },
+    { quote: 'It’s a two-way street. There are some benefits and there are some disadvantages.', name: 'Dr. Javad Khazaei', role: 'Associate Professor, Electrical and Computer Engineering, Lehigh University', why: 'Data centers can bring benefits and costs. Being human-centered means weighing both honestly, with the community at the table.' },
   ],
   voicesNote:
-    'Whose voices are here, and whose are missing: the people we interviewed at the council meeting all attended ' +
-    'the same meeting, and three of the five are leaders of the Lehigh Valley Democratic Socialists of America. We ' +
-    'did not interview a developer, a city official, a local business owner, or a local supporter of the proposal, ' +
-    'so those perspectives are not represented on this site.',
+    'A human-centered approach starts with listening. These are some of the voices we heard this semester, from ' +
+    'researchers, residents, and local organizers. They don’t all agree, and that’s the point: decisions about ' +
+    'technology in our community should be shaped by the full range of people who live with them. Each quote is ' +
+    'that person’s own view, shared in their own words.',
 
   clipsTitle: 'Interview Clips',
   clipsBody:
@@ -43,6 +45,27 @@ export const community = {
         'make the joke with my husband: okay, I wonder what the cost will be this year, because we could use less ' +
         'than we did last year and we pay two times as much, which doesn’t work out. I think a lot of it has to be ' +
         'transparency in planning and just education for folks.',
+    },
+    {
+      // cut from Interview.MP4, 0:21 to 1:12
+      file: 'community-joel-who-decides.mp4',
+      speaker: 'Joel Atkinson',
+      role: 'Communications coordinator, Lehigh Valley DSA (Democratic Socialists of America); Bethlehem resident',
+      label: 'Personal perspective',
+      title: 'Who gets to decide',
+      note:
+        'Recorded at the Bethlehem City Council meeting. His numbers on how many data centers are planned and being ' +
+        'built nationally are his own and were not checked by our team.',
+      // from docs/interviews/protest-3.txt. check against the recording.
+      transcript:
+        'I mean, I think I’d like people on the council to hear the community’s concerns. I think people across the ' +
+        'country, not just in Bethlehem or the Lehigh Valley, are upset by this rapid rollout of data centers that’s ' +
+        'been decided by the richest people in our society, without democratic input from the rest of society. It ' +
+        'really shows when we see thousands of data centers planned, hundreds getting built this year, who controls ' +
+        'what happens and who gets to decide the kinds of infrastructure we see develop. People in this country want ' +
+        'things like high-speed rail. They want things like Medicare for All. There’s lots of need in this community ' +
+        'just for housing. That’s been a big issue in the Lehigh Valley. But we don’t see capital being directed ' +
+        'towards that. We see it being directed towards data center construction.',
     },
   ],
 

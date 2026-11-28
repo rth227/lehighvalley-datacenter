@@ -286,6 +286,7 @@ main:focus { outline: none; }
 .voice blockquote p { font-family: var(--font-head); font-size: 1.3rem; line-height: 1.45; }
 .voice figcaption { display: flex; flex-direction: column; font-size: 0.95rem; }
 .voice figcaption span { color: var(--muted); }
+.voice-why { margin: 0.75rem 0 0; padding-top: 0.75rem; border-top: 1px solid var(--line); font-size: 0.9rem; line-height: 1.5; color: var(--muted); }
 
 .action-list, .resource-list { list-style: none; margin: 0; padding: 0; }
 .action-list li { padding-bottom: 1.75rem; margin-bottom: 1.75rem; border-bottom: 1px solid var(--line); }

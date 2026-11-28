@@ -14,12 +14,51 @@ export const hcai = {
   sections: [
     {
       title: 'The physical side of AI',
+      // numbers match the sourced facts on the Potential Impacts page (power and water sections)
       body:
         'Most people experience AI as an app on a phone or laptop. But AI tools like chatbots actually run in data ' +
         'centers: buildings full of computers that need a steady supply of electricity, and often water to keep ' +
-        'them cool. As more people use AI, more of these buildings are needed, and they have to be built somewhere. ' +
-        'In the Lehigh Valley, that “somewhere” is now being discussed close to home. Our Potential Impacts page ' +
-        'covers what is known about their energy and water use.',
+        'them cool. The scale can be large. A 2024 national laboratory report estimated that U.S. data centers used ' +
+        'about 17 billion gallons of water for cooling in 2023. Closer to home, the developers of the Route 22 ' +
+        'proposal estimate it would use about 120 megawatts of electricity at its busiest, and about 3 million gallons ' +
+        'of water to fill its cooling system. Data centers can also add noise, heat, and air pollution from backup ' +
+        'generators. How much of this a single facility causes depends on its design, and much about the Bethlehem ' +
+        'proposal is still unknown. Our Potential Impacts page covers each of these in more detail, with sources.',
+      clipsIntro:
+        'For many people we spoke with, environmental effects were the first concern. Prof. Pearl reflects on what ' +
+        'it means to have AI’s footprint close to home, and Joel Atkinson names the local impacts he worries about most.',
+      clips: [
+        {
+          // cut from pearlinterviewedited.mp4, 3:24 to 3:54
+          file: 'hcai-physical-pearl-data-clean.mp4',
+          speaker: 'Prof. Kallie Pearl',
+          role: 'Computer Science professor, Lehigh University; Hellertown resident',
+          label: 'Personal perspective',
+          title: '“People think data is clean”',
+          // from docs/interviews/pearl.txt, with filler words trimmed. check against the recording.
+          transcript:
+            'I think when you bring the data centers close, it brings the problem closer, and that’s new for us, ' +
+            'because we’ve always had technology improving and getting better. But the environmental effects, the big ' +
+            'issues, I feel like have been in other countries, in other places. People think data is clean because it’s ' +
+            'a computer. It’s not like oil spilling everywhere, but it still has its own problems. So it’s such a mixed ' +
+            'bag, and I have such conflicting feelings about it.',
+        },
+        {
+          // cut from Interview.MP4, 1:23 to 1:45
+          file: 'hcai-physical-joel-environment.mp4',
+          speaker: 'Joel Atkinson',
+          role: 'Communications coordinator, Lehigh Valley DSA (Democratic Socialists of America); Bethlehem resident',
+          label: 'Personal perspective',
+          title: 'His biggest concern: the environment',
+          note: 'Recorded at the Bethlehem City Council meeting on data center rules.',
+          // from docs/interviews/protest-3.txt. check against the recording.
+          transcript:
+            'My biggest concern with it is the environmental impacts that it might have to our community, locally. I ' +
+            'mean, I’m sure you’ve already heard from people and talked to people who’ve talked about things with water, ' +
+            'electricity, heat, various other sort of environmental concerns. I think those are what we need to be ' +
+            'thinking about locally with it.',
+        },
+      ],
     },
     {
       title: 'Engagement',
@@ -70,7 +109,9 @@ export const hcai = {
         'neighborhoods, who is responsible for making sure residents understand it before decisions are made? ' +
         'Helping close that gap is part of why we built this site.',
       // clips: drop the video in public/clips/ using `file` (same format as impacts.js clips)
-      clipsIntro: 'Julius Burns answers our question about whether the community is informed enough.',
+      clipsIntro:
+        'Two members of the Lehigh Valley DSA answer our question about whether the community is informed enough, ' +
+        'and they see it differently.',
       clips: [
         {
           file: 'hcai-ethics-burns-not-informed.mp4',
@@ -92,6 +133,26 @@ export const hcai = {
             'IT. My dad worked in IT for 40 years. I’ve been in data centers, regular data centers, tens of square feet ' +
             'or hundreds of square feet, not hundreds of thousands. You don’t need that. So I would say we’re not ' +
             'informed on purpose, to get these pushed forward as much as possible.',
+        },
+        {
+          // team-trimmed clip from "Information:transparency - 1 .mp4"
+          file: 'hcai-ethics-joel-informed.mp4',
+          speaker: 'Joel Atkinson',
+          role: 'Communications coordinator, Lehigh Valley DSA (Democratic Socialists of America); Bethlehem resident',
+          label: 'Personal perspective',
+          title: '“More political education is needed”',
+          note: 'Recorded at the Bethlehem City Council meeting on data center rules.',
+          // from docs/interviews/protest-3.txt. check against the recording.
+          transcript:
+            'Interviewer: Do you think the community is well informed enough about this issue? Atkinson: I think ' +
+            'people have a gut reaction to this, and I think they have some information about this, but I think there’s ' +
+            'more information that’s needed, and more political education that’s needed for the public on this. Often, ' +
+            'we aren’t informed about these big decisions that are getting made. And I think this is a big decision ' +
+            'that’s visible to us in a way that a lot of the big economic decisions that are made in Silicon Valley and ' +
+            'Washington and New York aren’t visible to us. So I think that’s part of the reason there’s this reaction, is ' +
+            'the visibility of it. It’s a little similar to maybe 10 or 15 years ago when warehouses started popping up ' +
+            'in the Lehigh Valley. We saw the warehouses happen, and there wasn’t as much pushback on that. And I think ' +
+            'we’re getting more pushback now.',
         },
       ],
     },

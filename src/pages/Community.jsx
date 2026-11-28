@@ -33,6 +33,7 @@ export default function Community() {
                   <strong>{v.name}</strong>
                   <span>{v.role}</span>
                 </figcaption>
+                {v.why && <p className="voice-why">{v.why}</p>}
               </figure>
             ))}
           </div>
