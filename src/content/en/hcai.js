@@ -9,7 +9,7 @@ export const hcai = {
     'electricity, and water in real neighborhoods. That makes a data center one of the places where AI meets a ' +
     'community most directly. We are looking at the data center proposed in Bethlehem through this lens ' +
     'because the people affected by these decisions deserve to be heard while the decisions are being made. ' +
-    'This page follows that idea in three steps, from what data centers take from a place, to how residents ' +
+    'This page follows that idea in three steps, from what data centers need from a place, to how residents ' +
     'can take part, to the ethical questions of who gets a say. Then it turns to the community itself. Our ' +
     'goal is to get these voices out there, so that future decisions about technology in the Lehigh Valley ' +
     'better reflect the people who live here.',
